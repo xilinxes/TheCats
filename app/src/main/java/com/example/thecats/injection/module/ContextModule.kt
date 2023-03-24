@@ -6,6 +6,7 @@ import com.example.thecats.base.BaseView
 import dagger.Module
 import dagger.Provides
 import dagger.Reusable
+import javax.inject.Scope
 
 @Module
 object ContextModule {
